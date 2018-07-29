@@ -1,8 +1,8 @@
-##Aplicación del clima curso node
+## Aplicación del clima curso node
 
 recuerden ejecutar ```npm install```
 
-##Ejemplo
+## Ejemplo
 
 ```
 node app -d "Bogota Colombia"
